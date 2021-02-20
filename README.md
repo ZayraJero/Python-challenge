@@ -20,7 +20,6 @@ Crear una función que recibe un número como argumento y devuelve el largo de e
 
 ## Ejercicio 2
 
-​
 Crear una función que reciba dos numeros como argumentos (número, longitud), y devolver una lista con los multiplos del número dada la longitud
 ​
 **Ejemplos**
@@ -36,3 +35,7 @@ Vean que la lista contiene el número que le pasan como argumento
 
 - Los argumentos no puede ser negativos
 - Los argumentos deben ser enteros
+
+**Tip**
+
+- Como saco un rango de un número? `3 -> [1,2,3]`
